@@ -1,2 +1,2 @@
-Install Linux Mint
+Cisco Packet Tracer
 ==================
