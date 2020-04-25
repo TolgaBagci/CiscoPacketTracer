@@ -10,4 +10,4 @@ For more information about what is Cisco Packet Tracer, visit the links below.
 
 Link 1: <a href="https://www.netacad.com/">www.netacad.com</a>
 
-Link 2: <a href="https://www.sysnettechsolutions.com/en/ciscopackettracer/what-is-cisco-packet-tracer-software/">What is Packet Tracer</a>
+Link 2: <a href="https://www.sysnettechsolutions.com/en/what-is-cisco-packet-tracer-software/">What is Packet Tracer</a>
