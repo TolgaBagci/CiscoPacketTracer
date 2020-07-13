@@ -8,4 +8,4 @@ You can download the Packet Tracer version 7.3 for Windows, Linux, and Apple mac
 
 To download Packet Tracer latest version for Windows and Linux, you can register on Netacad or visit the link below if you want to download Packet Tracer directly to your computer.
 
-<a href="https://www.sysnettechsolutions.com/en/download-cisco-packet-tracer/" target="_blank">https://www.sysnettechsolutions.com/en//download-cisco-packet-tracer/</a>
+<a href="https://www.sysnettechsolutions.com/en/download-cisco-packet-tracer/" target="_blank">https://www.sysnettechsolutions.com/en/download-cisco-packet-tracer/</a>
